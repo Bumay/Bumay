@@ -2,5 +2,3 @@
 
 - Mainly working with C#
 - Love home automation/smarthome
-
-### Connect with me: 
